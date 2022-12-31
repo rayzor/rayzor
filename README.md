@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rayzor
 - 👀 I’m interested in Flutter 
-- 🌱 I’m currently learning Dart
 - 🎈 I have published 5 Flutter Apps on Google App Store (under the brand "Green Rose Apps").
+- https://play.google.com/store/apps/details?id=neuville.com.diabetes_reversal&gl=IE
 - 💞️ I’m looking to collaborate on Flutter Apps for Health and Disease Prevention...
 - 👪 I'm also a Tech Mentor for my local Coder Dojo Club.
  .... 
